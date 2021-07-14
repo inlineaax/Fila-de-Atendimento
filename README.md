@@ -1,2 +1,2 @@
 # Fila-de-Atendimento
-Programa para realizar filas de atendimento
+Programa para realizar chamadas em filas de atendimento
